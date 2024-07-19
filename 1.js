@@ -5,3 +5,4 @@ curso: "ADS",
 notas:[8,7,9]
 }
 console.log(aluno)
+
